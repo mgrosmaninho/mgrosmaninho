@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Manuel Gomes Rosmaninho
+
+- U+1F5A5 Academic: BSc (Hons) Computer Science (Software Engineering) at University of Hertfordshire
 
 <!--
 **mgrosmaninho/mgrosmaninho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
