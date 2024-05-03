@@ -1,6 +1,6 @@
 ### Hi, I am Manuel Gomes Rosmaninho
 
-- 🖥 Academic: BSc (Hons) Computer Science (Software Engineering) at University of Hertfordshire
+- 🖥 Academic: BSc (Hons) Computer Science (Software Engineering) at the University of Hertfordshire
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ane-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
