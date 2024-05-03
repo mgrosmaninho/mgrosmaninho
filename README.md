@@ -2,6 +2,11 @@
 
 - 🖥 Academic: BSc (Hons) Computer Science (Software Engineering) at the University of Hertfordshire
 
+### Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+
+<br />
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ane-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ane-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
