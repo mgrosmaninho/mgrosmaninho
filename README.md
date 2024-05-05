@@ -2,7 +2,7 @@
 ---
 
 ## Hi there 👋
-### I'm Manuel Gomes Rosmaninho. I am a community guy who loves tech and Mainframes
+### I am a community guy who loves tech and Mainframes
 ---
 
 ### Languages and Tools
@@ -29,6 +29,7 @@
 
 ![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=mgrosmaninho&show_icons=true)
 
+- 📫 How to reach me:
 <div>
   <a href = "mailto:mgrosmaninho@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manuel-gomes-rosmaninho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
