@@ -1,7 +1,12 @@
-### Hi, I am Manuel Gomes Rosmaninho
+# Manuel Gomes Rosmaninho 👨‍💻
+---
 
+## Hi there 👋
+### I'm Manuel Gomes Rosmaninho. I am a community guy who loves tech and Mainframes
+---
+
+## About 🧐
 - 🖥 Academic: BSc (Hons) Computer Science (Software Engineering) at the University of Hertfordshire
-
 ---
 
 ### Languages and Tools
