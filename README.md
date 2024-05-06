@@ -33,6 +33,8 @@
   <a href="https://github.com/mgrosmaninho" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
 </div>
 
+![Manuel's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mgrosmaninho&show_icons=true&locale=en&layout=compact)
+
 <!--
 **mgrosmaninho/mgrosmaninho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Below code to put a GitHub stats
