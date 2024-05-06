@@ -26,9 +26,6 @@
 - 💬 Ask me about anything and everything!
 - ⚡ Fun fact: I love meeting new people and eating food!
 - 💬 Ping Me about #Mainframe #COBOL
-
-![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=mgrosmaninho&show_icons=true)
-
 - 📫 How to reach me:
 <div>
   <a href = "mailto:mgrosmaninho@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
@@ -38,6 +35,8 @@
 
 <!--
 **mgrosmaninho/mgrosmaninho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Below code to put a GitHub stats
+![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=mgrosmaninho&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
